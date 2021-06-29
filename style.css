@@ -1,0 +1,38 @@
+body{
+    background-color: cornflowerblue;
+}
+button
+{
+    background-color: rgb(106, 158, 255);
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#result
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 50px;
+    border-radius: 100px;
+}
+#textArea
+{
+    width: 300px;
+    color: coral;
+}
+img{
+    height:40%;
+    width:20%;
+}
+#selfie
+{
+    height: max-content;
+    width:max-content;
+}
